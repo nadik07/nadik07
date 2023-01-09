@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nadik07
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning BICT(Hons) in software systems
-- 💞️ I’m looking to collaborate on Data science and Machine Learning projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently pursuing BICT(Hons) in software systems Degree
+- 💞️ I’m looking to collaborate Web Development projects specially using React,Java,Angular Technologies...
 - 📫 You can reach me through mail : nasik.ahamed@aiesec.net
 
 <!---
