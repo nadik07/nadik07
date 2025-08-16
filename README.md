@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nadik07
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently pursuing BICT(Hons) in software systems Degree
+- 👋 Hi, I’m Nadik
+- 👀 I’m interested in Web Development and am a Software Proejct manager
+- 🌱 Holding ICT degree
 - 💞️ I’m looking to collaborate Web Development projects specially using React,Java,Angular Technologies...
 - 📫 You can reach me through mail : nasik.infor@gmail.com
 
