@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nadik
-- 👀 I’m interested in Web Development and am a Software Proejct manager
+- 👀 I’m interested in Web Development and am a Software Project manager
 - 🌱 Holding ICT degree
 - 💞️ I’m looking to collaborate Web Development projects specially using React,Java,Angular Technologies...
 - 📫 You can reach me through mail : nasik.infor@gmail.com
